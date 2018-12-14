@@ -14,7 +14,7 @@ public class Variables {
 		
 		System.out.println("First Number : "+firstnumber);
 		
-		byte SecondNumber = 100;
+		byte SecondNumber = 10;
 		
 		long ThirdNumber = 4565474746464l;
 		
@@ -24,7 +24,7 @@ public class Variables {
 		
 		char CharVar = '1';
 		
-		double MyDoubleVar = 10.7;
+		double MyDoubleVar = 10.71;
 		
 		float MyFloatVar = 1324.47455545f;
 		
