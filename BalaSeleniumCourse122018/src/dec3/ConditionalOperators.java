@@ -6,7 +6,7 @@ public class ConditionalOperators {
 		
 		int first, second;
 		
-		first=800; 
+		first=900; 
 		
 		second=550;
 		
