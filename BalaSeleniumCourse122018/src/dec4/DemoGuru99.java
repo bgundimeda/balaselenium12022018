@@ -8,7 +8,7 @@ public class DemoGuru99 {
 		
 		guru.invokeBrowser();
 		
-		guru.login("mngr168679", "dArEjYj");
+		guru.login("mngr168679","dArEjYj");
 		
 	}
 

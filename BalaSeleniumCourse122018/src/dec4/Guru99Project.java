@@ -1,7 +1,7 @@
 package dec4;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
+//import org.openqa.selenium.By;
+//import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Guru99Project {
@@ -43,10 +43,7 @@ public class Guru99Project {
 	    	
 	    }
 	    
-	public void Logout() {
-		
-		
-	}
+	
 	 
 
 }
