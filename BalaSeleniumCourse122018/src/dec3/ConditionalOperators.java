@@ -6,11 +6,7 @@ public class ConditionalOperators {
 		
 		int first, second;
 		
-<<<<<<< HEAD
-		first=800; 
-=======
-		first=700; 
->>>>>>> branch 'master' of https://github.com/bgundimeda/balaselenium12022018.git
+        first=800;
 		
 		second=550;
 		
