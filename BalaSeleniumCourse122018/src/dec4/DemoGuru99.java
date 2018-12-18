@@ -10,6 +10,8 @@ public class DemoGuru99 {
 		
 		guru.login("mngr168679","dArEjYj");
 		
+		guru.closebrowser();
+		
 	}
 
 }
