@@ -8,7 +8,7 @@ public class Variables {
 	
 		int firstnumber;
 		
-		firstnumber = 7600;
+		firstnumber = 8600;
 		
 		firstnumber = ++firstnumber;
 		
